@@ -42,6 +42,6 @@ Phrase avec un pied. [^1]
 
 [^1]: Pied
 
-### Mon meilleur titre {#custom-id}
+### Mon meilleur titre {#npm i custom-id}
   
   
