@@ -53,4 +53,4 @@ Multimédia
 - [ ] Faire une bonne présentation
 - [ ] Réussir le cours
 
-![gif de l'écran](medias2/homme.jpg)
+![gif de l'écran](medias2/gif.mp4)
