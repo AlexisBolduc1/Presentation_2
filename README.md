@@ -37,6 +37,11 @@
   "age": 17
 }
 ```
-  
+
+Phrase avec un pied. [^1]
+
+[^1]: Pied
+
+
   
   
