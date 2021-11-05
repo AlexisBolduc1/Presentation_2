@@ -44,4 +44,11 @@ Phrase avec un pied. [^1]
 
 ### Mon meilleur titre {#custom-id:1}
   
-  
+Multimédia
+: Qui concerne ou utilise plusieurs médias.
+
+~~Le covid est un complot~~
+
+- [x] Finir le code
+- [ ] Faire une bonne présentation
+- [ ] Réussir le cours
