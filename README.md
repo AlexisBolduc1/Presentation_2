@@ -42,7 +42,7 @@ Phrase avec un pied. [^1]
 
 [^1]: Pied
 
-### Mon meilleur titre {#h3}
+### Mon meilleur titre {#pink}
   
 Multimédia
 : Qui concerne ou utilise plusieurs médias.
