@@ -23,4 +23,20 @@
 `code`
 -------
 [Ubisoft](https://www.ubisoft.com/fr-ca/)
-![description en mot de l'image](homme.jpg)
+
+![description en mot de l'image](medias2/homme.jpg)
+
+| Salut | Qui etes-vous? |
+| ------ | ------- | 
+| Tomate | Oignon |
+
+```
+{
+  "Premiernom": "Alexis" ,
+  "Derniernom": "Bolduc" ,
+  "age": 17
+}
+```
+  
+  
+  
